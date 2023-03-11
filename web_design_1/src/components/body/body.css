@@ -1,0 +1,110 @@
+.body-back {
+    background-Image: url("https://www.gujarattourism.com/content/dam/gujrattourism/images/home_page/opti/SOU.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+    margin-bottom: 2%;
+}
+
+.para {
+    margin-top: 2%;
+    width: 80vw;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: ghostwhite;
+    font-size: 1.2em;
+    padding: 2%;
+    text-align: justify;
+    margin-bottom: 2%;
+}
+
+.explore,
+.testimonial {
+    background-image: url("https://www.soutickets.in/assets/images/banner_home_img.jpg");
+    width: 100vw;
+    height: auto;
+    padding-top:2% ;
+    margin-bottom: 2%;
+
+}
+
+.testimonial {
+    height: 90vh;
+    margin-bottom: 0;
+}
+
+.vedios {
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+    margin-bottom: 2%;
+}
+
+.vedios h1 {
+    color: antiquewhite;
+}
+
+.place-to-explores h1 {
+    text-align: center;
+    color: ghostwhite;
+
+}
+
+.place-to-explores div {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    color: antiquewhite;
+    width: 25vw;
+    border-radius: 5%;
+
+}
+
+.heading {
+    
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.place-to-explores div .vedio {
+    width: 25vw;
+    height: auto;
+
+}
+
+.place-to-explores div p {
+    text-align: center;
+}
+
+.place-to-explores div img {
+    width: 25vw;
+}
+
+.place-to-explores div:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.9);
+    transform: scale(1.1);
+}
+
+.flex-gap {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    gap: 3%;
+}
+
+.testimonial h1 {
+    padding-right: 5%;
+    text-align: right;
+}
+
+.testimonial p {
+    margin-left:
+        40%;
+    margin-bottom: 5px;
+    padding-left: 1%;
+    color: ghostwhite;
+    padding-right: 1%;
+    background-color: rgba(0, 0, 0, 0.9);
+    width: 50vw;
+    text-align: justify;
+    border-radius: 10px;
+}
